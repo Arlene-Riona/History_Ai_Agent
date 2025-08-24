@@ -1,4 +1,4 @@
-# History Agent 2 — Role-play Historical Figures + TTS
+# History Agent - Role-play Historical Figures + TTS
 
 A lightweight Google ADK app that chats **in first person** as a named historical figure.  
 It fetches a concise factual profile + voice style, composes a reply, and speaks it aloud with **ElevenLabs TTS** (with **Gemini TTS** fallback). Audio is saved locally and served via a tiny HTTP server so the chat UI can play it.
