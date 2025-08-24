@@ -1,0 +1,14 @@
+.env
+*.env
+__pycache__/
+*.py[cod]
+history_agent_audio/
+*.wav
+*.mp3
+.venv/
+venv/
+env/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
